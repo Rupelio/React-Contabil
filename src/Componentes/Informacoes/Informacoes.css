@@ -1,0 +1,21 @@
+.informacoes{
+    display: flex;
+    justify-content: center;
+    margin: 80px 0;
+}
+
+.informacoes .a{
+    max-width: 40%;
+    background-color: #D6DDDB;
+    border-radius: 20px;
+    padding: 36px 32px;
+    box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.08);
+    margin-right: 64px;
+}
+.informacoes .b{
+    max-width: 40%;
+    background-color: #D6DDDB;
+    border-radius: 20px;
+    padding: 36px 32px;
+    box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.08);
+}

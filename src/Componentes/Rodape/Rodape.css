@@ -1,0 +1,7 @@
+.rodape{
+    display: flex;
+    justify-content: space-around;
+    background-color: #222222;
+    width: 100%;
+    color: #fff;
+}

@@ -1,0 +1,28 @@
+.barra {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #46494C;
+    flex-wrap: wrap;
+}
+
+.barra img{
+    width: 200px;
+}
+
+.barra ul li{
+    display: inline-block;
+    margin-right: 32px;
+}
+
+.barra a{
+    padding: 16px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.barra a:hover{
+    background-color: #4C5C68;
+    width: 100%;
+}
